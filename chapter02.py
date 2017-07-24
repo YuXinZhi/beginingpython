@@ -9,5 +9,5 @@ print(tmp[-1:-4:-1])
 n = [8,9,0]
 s = ['3','4',5]
 print(n+s)
-# n+s !!!错误， 3
+
 #print('index ' ,s.index('2'))
