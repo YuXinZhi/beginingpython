@@ -1,4 +1,6 @@
-
+'''
+带yield语句的生成器
+'''
 def lines(file):
     for line in file:
         yield line
